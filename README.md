@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e5494&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e5494&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Murillo+Ratti;Be+Welcome!;Olá!+Meu+nome+é+Murillo+Ratti;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e5494&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Murillo+Ratti;Be+Welcome!+:%29;Olá!+Meu+nome+é+Murillo+Ratti;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 - ### About me 
 I'm 20 years old. Currently I'm living in São Paulo-SP and I'm attending the 4th semester of analysis and systems development.
@@ -11,7 +11,7 @@ I'm 20 years old. Currently I'm living in São Paulo-SP and I'm attending the 4t
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
-### Tools:
+- ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
