@@ -1,5 +1,16 @@
-# ***Murillo Ratti***
- Hi! My Name is Murillo, I'm 20 years old. Currently I'm living in São Paulo-SP and I'm attending the 7th semester of analysis and systems development.
+<div id="header" align="center">
+  <img src="linkDOCodigo" width="200"/>
+</div>
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=+Hello+my+name+is+Murillo+Ratti;+Welcome+to+my+profile)](https://git.io/typing-svg)
+
+
+
+- ### About me 
+My Name is Murillo, I'm 20 years old. Currently I'm living in São Paulo-SP and I'm attending the 7th semester of analysis and systems development.
 - ### Contact me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/murillo-ratti-808b97254/) 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/omurillocom2l/)
