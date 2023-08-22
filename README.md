@@ -1,4 +1,4 @@
-# *Murillo Ratti*
+# ***Murillo Ratti***
  Hi! My Name is Murillo, I'm 20 years old. Currently I'm living in São Paulo-SP and I'm attending the 7th semester of analysis and systems development.
 - ### Contact me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/murillo-ratti-808b97254/) 
